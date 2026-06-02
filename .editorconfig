@@ -1,0 +1,11 @@
+root = true
+
+[*.c]
+indent-size = 2
+indent-style = space
+charset = utf-8
+
+[Makefile]
+indent-size = 4
+indent-style = tab
+charset = utf-8

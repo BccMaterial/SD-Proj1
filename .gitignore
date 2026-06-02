@@ -1,0 +1,5 @@
+.vscode
+.ccls_cache
+
+output
+build
