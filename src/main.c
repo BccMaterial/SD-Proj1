@@ -7,7 +7,6 @@
 #include <time.h>
 
 #define REPETICOES 10
-
 typedef struct {
   int inicio;
   int fim;
@@ -164,7 +163,6 @@ int main() {
 
     inicializar_matriz(A, n);
     inicializar_matriz(B, n);
-
     double soma_tempo_seq = 0.0;
 
     for (int r = 0; r < REPETICOES; r++) {
