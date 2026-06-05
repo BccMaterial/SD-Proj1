@@ -3,3 +3,45 @@
 
 output
 build
+
+# LATEX
+# Arquivos auxiliares
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.log
+*.lot
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+
+# Índices e glossários
+*.acn
+*.acr
+*.alg
+*.glg
+*.glo
+*.gls
+*.idx
+*.ilg
+*.ind
+*.ist
+
+# Arquivos de referências cruzadas
+*.nav
+*.snm
+*.vrb
+
+# Arquivos temporários
+*.bak
+*.tmp
+*.swp
+
+# Latexmk
+*.dvi
+*.xdv
